@@ -1,0 +1,16 @@
+emoji,gold,pred,correct,latency
+🧑🕷️🏙️,spider-man,"""Man-Spider in City"" (Assuming a literal translation, as no known movie matches exactly this sequence.)",False,6.835093021392822
+🚢💔🧊,titanic,Titanic (1997),False,0.6541759967803955
+👸❄️,frozen,Frozen Princess,False,0.5231971740722656
+🧙🧝💍🌋,the lord of the rings,"""Elfquest: The Wedding of Worlds""",False,0.7992651462554932
+🦖🏞️,jurassic park,"""Jurassic Park""",True,0.5522267818450928
+🧑‍🚀🌕,apollo 13,"Moonbase Alpha (Reference to the TV series ""Space: 1999"")",False,1.0773391723632812
+🧔⚡🧹🏰,harry potter,Lightning Man: The Royal Cleaner,False,0.6039731502532959
+🤵🕶️🕶️🚗,men in black,"""Men in Black"" (This is a popular movie where the main characters are dressed as men in suits, wear sunglasses, and drive cars.)",False,1.720757007598877
+🧡🐠🔍,finding nemo,Finding Nemo,True,0.41388392448425293
+🦁👑🌅,the lion king,Lion King Dawn (or Sunrise of the Lion King),False,0.8391296863555908
+🧑‍🍳🐭🇫🇷,ratatouille,Ratatouille (France-based animated film about a rat who becomes a chef),False,1.143946886062622
+👻🚫,ghostbusters,Ghost Prohibited (hypothetical title),False,0.9465899467468262
+🤖🚗,transformers,Car Robot (working title),False,0.721764087677002
+🦇🏙️,the dark knight,"Batman City (or possibly City of Bats, depending on context)",False,0.9288790225982666
+🚗⚡🏁,cars,"""Fast & Furious: Racer's Race""",False,0.786370038986206

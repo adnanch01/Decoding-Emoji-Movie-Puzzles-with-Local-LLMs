@@ -1,0 +1,16 @@
+emoji,gold,best_pred,score,correct,avg_latency
+🧑🕷️🏙️,spider-man,Spider-Man: Into the Spider-Verse,0.48,False,1.3964202404022217
+🚢💔🧊,titanic,Titanic (1997),0.74,False,2.632569360733032
+👸❄️,frozen,"Cinderella (Disney, 2015)",0.21,False,1.5914579391479493
+🧙🧝💍🌋,the lord of the rings,"The Secret Life of Pets 2 (The magic, family, and wedding emojis are stylized to look similar to the characters in this animated film series)",0.2,False,4.134694337844849
+🦖🏞️,jurassic park,Jurassic Park,1.0,True,0.4675300121307373
+🧑‍🚀🌕,apollo 13,Apollo 13,1.0,True,0.40084104537963866
+🧔⚡🧹🏰,harry potter,Harry Potter and the Sorcerer's Stone,0.99,True,0.6747864246368408
+🤵🕶️🕶️🚗,men in black,The Green Mile (2006),0.37,False,2.887025165557861
+🧡🐠🔍,finding nemo,Finding Dory,0.75,False,0.7483933448791504
+🦁👑🌅,the lion king,Lion King,1.0,True,0.2959639549255371
+🧑‍🍳🐭🇫🇷,ratatouille,Ratatouille (2007),0.81,True,0.5554584980010986
+👻🚫,ghostbusters,Ghostbusters II,0.89,True,0.4564706325531006
+🤖🚗,transformers,Terminator 2: Judgment Day,0.38,False,0.5142728328704834
+🦇🏙️,the dark knight,Batman Begins,0.25,False,0.2777674674987793
+🚗⚡🏁,cars,Fast & Furious: Tokyo Drift,0.21,False,1.0443156719207765
