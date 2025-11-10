@@ -1,0 +1,271 @@
+model,emoji,gold,prompt_type,temperature,prediction,correct,latency
+mistral:7b,🧑🕷️🏙️,spider-man,zero_shot,0.0,Spider-Man: Into the Spider-Verse,0,5.068709135055542
+mistral:7b,🧑🕷️🏙️,spider-man,json_constrained,0.0,Man vs Spider in Metropolis,0,1.1931540966033936
+mistral:7b,🧑🕷️🏙️,spider-man,few_shot,0.0,"The Amazing Spider-Man 2 (This emoji sequence suggests a man, a spider, and a city, which are characters or elements from the Spider-Man series)",0,2.5147900581359863
+mistral:7b,🧑🕷️🏙️,spider-man,zero_shot,0.3,Spider-Man: Into the Spider-Verse,0,0.9138889312744141
+mistral:7b,🧑🕷️🏙️,spider-man,json_constrained,0.3,Man vs Spider in Metropolis,0,1.1813528537750244
+mistral:7b,🧑🕷️🏙️,spider-man,few_shot,0.3,"The Amazing Spider-Man 2 (This emoji sequence suggests a man in cityscape encountering a spider, which is a reference to Spider-Man's story)",0,2.5125718116760254
+mistral:7b,🧑🕷️🏙️,spider-man,zero_shot,0.7,Spider-Man: Into the Spider-Verse,0,0.9140899181365967
+mistral:7b,🧑🕷️🏙️,spider-man,json_constrained,0.7,Woman-Spider-City,0,1.1391849517822266
+mistral:7b,🧑🕷️🏙️,spider-man,few_shot,0.7,"The answer is ""Spider-Man in New York"" (or similar, depending on which specific Spider-Man film features scenes in a city). This combination of emojis suggests a scene involving a person (male, as indicated by 🧑) and a spider (symbolized by 🕷️) in an urban environment (represented by 🏙️), which is reminiscent of the Spider-Man series.",0,5.255874156951904
+llama3.2:latest,🧑🕷️🏙️,spider-man,zero_shot,0.0,Spider-Man.,1,7.240997076034546
+llama3.2:latest,🧑🕷️🏙️,spider-man,json_constrained,0.0,Spider-Man,1,0.3742101192474365
+llama3.2:latest,🧑🕷️🏙️,spider-man,few_shot,0.0,Spider-Man: No Way Home,0,0.4287412166595459
+llama3.2:latest,🧑🕷️🏙️,spider-man,zero_shot,0.3,Spider-Man.,1,0.27974414825439453
+llama3.2:latest,🧑🕷️🏙️,spider-man,json_constrained,0.3,Spider-Man,1,0.36881208419799805
+llama3.2:latest,🧑🕷️🏙️,spider-man,few_shot,0.3,Spider-Man: Into the Spider-Verse,0,0.4757068157196045
+llama3.2:latest,🧑🕷️🏙️,spider-man,zero_shot,0.7,Spider-Man: Homecoming,0,0.3250448703765869
+llama3.2:latest,🧑🕷️🏙️,spider-man,json_constrained,0.7,Spider-Man,1,0.3749048709869385
+llama3.2:latest,🧑🕷️🏙️,spider-man,few_shot,0.7,Spider-Man: No Way Home,0,0.42857813835144043
+mistral:7b,🚢💔🧊,titanic,zero_shot,0.0,Titanic (1997),0,2.30485200881958
+mistral:7b,🚢💔🧊,titanic,json_constrained,0.0,Titanic: The Frozen Heartbreak,0,1.249511957168579
+mistral:7b,🚢💔🧊,titanic,few_shot,0.0,Ice Age 2: The Meltdown,0,1.1657929420471191
+mistral:7b,🚢💔🧊,titanic,zero_shot,0.3,Titanic (1997),0,0.7866408824920654
+mistral:7b,🚢💔🧊,titanic,json_constrained,0.3,Titanic: The Frozen Heartbreak,0,1.004180908203125
+mistral:7b,🚢💔🧊,titanic,few_shot,0.3,Ice Age 2: The Meltdown,0,1.1572880744934082
+mistral:7b,🚢💔🧊,titanic,zero_shot,0.7,Titanic,1,5.567163944244385
+mistral:7b,🚢💔🧊,titanic,json_constrained,0.7,Titanic: The Frozen Heartbreak,0,1.2194600105285645
+mistral:7b,🚢💔🧊,titanic,few_shot,0.7,Ice Age 2: The Meltdown,0,1.1608970165252686
+llama3.2:latest,🚢💔🧊,titanic,zero_shot,0.0,Titanic,1,0.9431910514831543
+llama3.2:latest,🚢💔🧊,titanic,json_constrained,0.0,Frozen Heart of the Sea,0,0.4723362922668457
+llama3.2:latest,🚢💔🧊,titanic,few_shot,0.0,The Revenant,0,0.3870699405670166
+llama3.2:latest,🚢💔🧊,titanic,zero_shot,0.3,Titanic.,1,0.21303510665893555
+llama3.2:latest,🚢💔🧊,titanic,json_constrained,0.3,Frozen Sorrow,0,0.3199477195739746
+llama3.2:latest,🚢💔🧊,titanic,few_shot,0.3,The Revenant,0,0.38491201400756836
+llama3.2:latest,🚢💔🧊,titanic,zero_shot,0.7,Titanic,1,0.1875288486480713
+llama3.2:latest,🚢💔🧊,titanic,json_constrained,0.7,The Iceberg Melts (Heart Break),0,0.4525320529937744
+llama3.2:latest,🚢💔🧊,titanic,few_shot,0.7,The Revenant,0,0.38326096534729004
+mistral:7b,👸❄️,frozen,zero_shot,0.0,Cinderella III: Winter Warrior (Disney's direct-to-video sequel),0,1.2214102745056152
+mistral:7b,👸❄️,frozen,json_constrained,0.0,Frozen Princess,0,0.8292140960693359
+mistral:7b,👸❄️,frozen,few_shot,0.0,Frozen,1,0.8484249114990234
+mistral:7b,👸❄️,frozen,zero_shot,0.3,Cinderella III: Winter Warrior (Disney's direct-to-video sequel),0,1.1299262046813965
+mistral:7b,👸❄️,frozen,json_constrained,0.3,Frozen Princess,0,0.8231711387634277
+mistral:7b,👸❄️,frozen,few_shot,0.3,Frozen,1,0.8471279144287109
+mistral:7b,👸❄️,frozen,zero_shot,0.7,Cinderella III: Winter Warrior (Disney),0,0.7365171909332275
+mistral:7b,👸❄️,frozen,json_constrained,0.7,Frozen Princess,0,0.8225347995758057
+mistral:7b,👸❄️,frozen,few_shot,0.7,Frozen,1,0.8484342098236084
+llama3.2:latest,👸❄️,frozen,zero_shot,0.0,Frozen,1,0.2059650421142578
+llama3.2:latest,👸❄️,frozen,json_constrained,0.0,Frozen Princess,0,0.2995481491088867
+llama3.2:latest,👸❄️,frozen,few_shot,0.0,Frozen,1,0.31741809844970703
+llama3.2:latest,👸❄️,frozen,zero_shot,0.3,Frozen,1,0.16606521606445312
+llama3.2:latest,👸❄️,frozen,json_constrained,0.3,Frozen Princess,0,0.2976341247558594
+llama3.2:latest,👸❄️,frozen,few_shot,0.3,Frozen,1,0.3172290325164795
+llama3.2:latest,👸❄️,frozen,zero_shot,0.7,Frozen,1,0.1652541160583496
+llama3.2:latest,👸❄️,frozen,json_constrained,0.7,Frozen Princess,0,0.298475980758667
+llama3.2:latest,👸❄️,frozen,few_shot,0.7,Frozen,1,0.3174271583557129
+mistral:7b,🧙🧝💍🌋,the lord of the rings,zero_shot,0.0,"The movie title is ""Fantastic Beasts and Where to Find Them - The Wedding Goblin and the Shiva's Rock"" (based on the emojis representing a goblin, a human, a wedding ring, and a mountain that resembles the Shivlinga from Mount Kailash). However, this is an imaginative interpretation as there are no official movie titles that match this sequence.",0,4.39125919342041
+mistral:7b,🧙🧝💍🌋,the lord of the rings,json_constrained,0.0,Wedding of Wizards and Giants before the Eruption,0,1.444394826889038
+mistral:7b,🧙🧝💍🌋,the lord of the rings,few_shot,0.0,Harry Potter and the Philosopher's Stone,0,1.2548720836639404
+mistral:7b,🧙🧝💍🌋,the lord of the rings,zero_shot,0.3,"The movie title for the given emoji sequence is ""Fantastic Beasts: The Crimes of Grindelwald"". The emojis represent Harry Potter characters: 🧙 (Dumbledore as a young man), 🧝 (Newt Scamander), 💍 (Wedding or engagement, possibly representing the character Theseus), and 🌋 (Hagrid's Hut or the magical landscape of the movie).",0,4.928283929824829
+mistral:7b,🧙🧝💍🌋,the lord of the rings,json_constrained,0.3,Wedding of Wizards and Giants before the Eruption,0,1.439582109451294
+mistral:7b,🧙🧝💍🌋,the lord of the rings,few_shot,0.3,Harry Potter and the Philosopher's Stone,0,1.254162311553955
+mistral:7b,🧙🧝💍🌋,the lord of the rings,zero_shot,0.7,"The movie title is ""Fantastic Beasts and Where to Find Them"" (the emojis represent Harry Potter characters and Yellowstone's Grand Prismatic Spring, but not a direct match for the given sequence). However, it seems there might be a misunderstanding as these emojis do not directly form a coherent movie title.",0,3.6102631092071533
+mistral:7b,🧙🧝💍🌋,the lord of the rings,json_constrained,0.7,Wizard's Wedding at Yosemite,0,1.3223400115966797
+mistral:7b,🧙🧝💍🌋,the lord of the rings,few_shot,0.7,Harry Potter and the Deathly Hallows,0,1.1620941162109375
+llama3.2:latest,🧙🧝💍🌋,the lord of the rings,zero_shot,0.0,Shrek,0,0.46915507316589355
+llama3.2:latest,🧙🧝💍🌋,the lord of the rings,json_constrained,0.0,The Princess Bride,0,0.4434530735015869
+llama3.2:latest,🧙🧝💍🌋,the lord of the rings,few_shot,0.0,The Hobbit,0,0.37861013412475586
+llama3.2:latest,🧙🧝💍🌋,the lord of the rings,zero_shot,0.3,Shrek.,0,0.28218913078308105
+llama3.2:latest,🧙🧝💍🌋,the lord of the rings,json_constrained,0.3,The Wizard of Oz (1939),0,0.5038092136383057
+llama3.2:latest,🧙🧝💍🌋,the lord of the rings,few_shot,0.3,The Lord of the Rings: The Hobbit,0,0.49797606468200684
+llama3.2:latest,🧙🧝💍🌋,the lord of the rings,zero_shot,0.7,Shrek.,0,0.2812011241912842
+llama3.2:latest,🧙🧝💍🌋,the lord of the rings,json_constrained,0.7,The Princess Bride,0,0.3933382034301758
+llama3.2:latest,🧙🧝💍🌋,the lord of the rings,few_shot,0.7,The Lord of the Rings: The Hobbit,0,0.49539780616760254
+mistral:7b,🦖🏞️,jurassic park,zero_shot,0.0,Dinosaur (2000),0,0.6689131259918213
+mistral:7b,🦖🏞️,jurassic park,json_constrained,0.0,Jurassic Park,1,1.0454461574554443
+mistral:7b,🦖🏞️,jurassic park,few_shot,0.0,Jurassic Park,1,0.9375810623168945
+mistral:7b,🦖🏞️,jurassic park,zero_shot,0.3,Dinosaur (2000),0,0.6046621799468994
+mistral:7b,🦖🏞️,jurassic park,json_constrained,0.3,Jurassic Park,1,1.0449259281158447
+mistral:7b,🦖🏞️,jurassic park,few_shot,0.3,Jurassic Park,1,0.936398983001709
+mistral:7b,🦖🏞️,jurassic park,zero_shot,0.7,Dinosaur (2000),0,0.6048119068145752
+mistral:7b,🦖🏞️,jurassic park,json_constrained,0.7,Dinosaur Canyon,0,1.0851640701293945
+mistral:7b,🦖🏞️,jurassic park,few_shot,0.7,Jurassic Park,1,0.9360368251800537
+llama3.2:latest,🦖🏞️,jurassic park,zero_shot,0.0,Jurassic Park,1,0.25054407119750977
+llama3.2:latest,🦖🏞️,jurassic park,json_constrained,0.0,Jurassic Park,1,0.32070112228393555
+llama3.2:latest,🦖🏞️,jurassic park,few_shot,0.0,Jurassic Park,1,0.3625810146331787
+llama3.2:latest,🦖🏞️,jurassic park,zero_shot,0.3,Jurassic Park,1,0.21631073951721191
+llama3.2:latest,🦖🏞️,jurassic park,json_constrained,0.3,Jurassic Park,1,0.32552075386047363
+llama3.2:latest,🦖🏞️,jurassic park,few_shot,0.3,Jurassic Park,1,0.36702394485473633
+llama3.2:latest,🦖🏞️,jurassic park,zero_shot,0.7,Jurassic Park 🌳,1,0.27758288383483887
+llama3.2:latest,🦖🏞️,jurassic park,json_constrained,0.7,Jurassic Park,1,0.3207230567932129
+llama3.2:latest,🦖🏞️,jurassic park,few_shot,0.7,Jurassic Park,1,0.36182713508605957
+mistral:7b,🧑‍🚀🌕,apollo 13,zero_shot,0.0,Moon (2009),0,0.7557988166809082
+mistral:7b,🧑‍🚀🌕,apollo 13,json_constrained,0.0,Moon Man,0,0.9562439918518066
+mistral:7b,🧑‍🚀🌕,apollo 13,few_shot,0.0,Moon (2009),0,1.0778558254241943
+mistral:7b,🧑‍🚀🌕,apollo 13,zero_shot,0.3,Moon (2009),0,0.6966028213500977
+mistral:7b,🧑‍🚀🌕,apollo 13,json_constrained,0.3,Moon Man,0,0.9572489261627197
+mistral:7b,🧑‍🚀🌕,apollo 13,few_shot,0.3,Moon (2009),0,1.0747778415679932
+mistral:7b,🧑‍🚀🌕,apollo 13,zero_shot,0.7,"Moonraker (The emojis represent a person in a spacesuit and a full moon, which are references to characters and settings from this film.)",0,1.7493069171905518
+mistral:7b,🧑‍🚀🌕,apollo 13,json_constrained,0.7,Man in Space Moon,0,0.9991569519042969
+mistral:7b,🧑‍🚀🌕,apollo 13,few_shot,0.7,Moon (2009),0,1.0822739601135254
+llama3.2:latest,🧑‍🚀🌕,apollo 13,zero_shot,0.0,Apollo 13,1,0.36188316345214844
+llama3.2:latest,🧑‍🚀🌕,apollo 13,json_constrained,0.0,The Astronaut Man of the Stars,0,0.4966442584991455
+llama3.2:latest,🧑‍🚀🌕,apollo 13,few_shot,0.0,Interstellar,0,0.340137243270874
+llama3.2:latest,🧑‍🚀🌕,apollo 13,zero_shot,0.3,Space Odyssey,0,0.25818610191345215
+llama3.2:latest,🧑‍🚀🌕,apollo 13,json_constrained,0.3,The Astronaut Man of the Stars,0,0.4824349880218506
+llama3.2:latest,🧑‍🚀🌕,apollo 13,few_shot,0.3,Interstellar,0,0.33972883224487305
+llama3.2:latest,🧑‍🚀🌕,apollo 13,zero_shot,0.7,Space Oddity,0,0.28005003929138184
+llama3.2:latest,🧑‍🚀🌕,apollo 13,json_constrained,0.7,The Space Man,0,0.3923492431640625
+llama3.2:latest,🧑‍🚀🌕,apollo 13,few_shot,0.7,Interstellar.,0,0.3625037670135498
+mistral:7b,🧔⚡🧹🏰,harry potter,zero_shot,0.0,The Matrix (1999),0,0.8055999279022217
+mistral:7b,🧔⚡🧹🏰,harry potter,json_constrained,0.0,Goblin Thunder Castle,0,1.0925700664520264
+mistral:7b,🧔⚡🧹🏰,harry potter,few_shot,0.0,Harry Potter and the Sorcerer's Stone,0,1.2695119380950928
+mistral:7b,🧔⚡🧹🏰,harry potter,zero_shot,0.3,"The movie title for the given emoji sequence is ""Harry Potter and the Sorcerer's Stone"". This sequence represents characters from the popular book series, with 🧔 representing Harry Potter (the protagonist), ⚡ representing lightning bolts (a symbol of magic associated with Harry), 🧹 representing a broom (used in Quidditch games), and 🏰 representing a castle (Hogwarts).",0,4.639476299285889
+mistral:7b,🧔⚡🧹🏰,harry potter,json_constrained,0.3,Hairy Electric Witch Castle,0,1.1016168594360352
+mistral:7b,🧔⚡🧹🏰,harry potter,few_shot,0.3,Harry Potter and the Sorcerer's Stone,0,1.285127878189087
+mistral:7b,🧔⚡🧹🏰,harry potter,zero_shot,0.7,The Matrix (1999),0,0.7487390041351318
+mistral:7b,🧔⚡🧹🏰,harry potter,json_constrained,0.7,Hairy Electric Sweep Castle,0,0.9267301559448242
+mistral:7b,🧔⚡🧹🏰,harry potter,few_shot,0.7,Harry Potter and the Sorcerer's Stone,0,1.289170742034912
+llama3.2:latest,🧔⚡🧹🏰,harry potter,zero_shot,0.0,The Great Expectations,0,0.4388420581817627
+llama3.2:latest,🧔⚡🧹🏰,harry potter,json_constrained,0.0,The Electric Detective,0,0.4028189182281494
+llama3.2:latest,🧔⚡🧹🏰,harry potter,few_shot,0.0,The Avengers,0,0.40032291412353516
+llama3.2:latest,🧔⚡🧹🏰,harry potter,zero_shot,0.3,The Usual Suspects,0,0.36365270614624023
+llama3.2:latest,🧔⚡🧹🏰,harry potter,json_constrained,0.3,The Electric Detective,0,0.3914909362792969
+llama3.2:latest,🧔⚡🧹🏰,harry potter,few_shot,0.3,Superman,0,0.3421497344970703
+llama3.2:latest,🧔⚡🧹🏰,harry potter,zero_shot,0.7,The Avengers.,0,0.281663179397583
+llama3.2:latest,🧔⚡🧹🏰,harry potter,json_constrained,0.7,The Electric Detective,0,0.39647889137268066
+llama3.2:latest,🧔⚡🧹🏰,harry potter,few_shot,0.7,The Avengers,0,0.345628023147583
+mistral:7b,🤵🕶️🕶️🚗,men in black,zero_shot,0.0,The Green Mile (2000),0,0.8943350315093994
+mistral:7b,🤵🕶️🕶️🚗,men in black,json_constrained,0.0,Tuxedo Drive,0,1.0170769691467285
+mistral:7b,🤵🕶️🕶️🚗,men in black,few_shot,0.0,"Pepe Le Pew (The movie character is a skunk depicted as a French suitor, represented by 🤵, wearing two bowler hats, represented by 🕶️🕶️, and driving a car, represented by 🚗. However, the specific movie title associated with this combination might not be straightforward, so I'll leave it up to you to find the most fitting one based on the given context.)",0,5.240849733352661
+mistral:7b,🤵🕶️🕶️🚗,men in black,zero_shot,0.3,Greenlight (2019),0,0.7706167697906494
+mistral:7b,🤵🕶️🕶️🚗,men in black,json_constrained,0.3,Tuxedo Drive,0,1.0386991500854492
+mistral:7b,🤵🕶️🕶️🚗,men in black,few_shot,0.3,"Pepe Le Pew (The movie character is a skunk depicted as a French suitor and is often associated with wearing a striped hat, similar to the 🤵 emoji, and a bow tie, which can be represented by the 🕶️ emojis.) Driving a Car (represented by the 🚗 emoji).",0,5.619288921356201
+mistral:7b,🤵🕶️🕶️🚗,men in black,zero_shot,0.7,"""Crazy, Stupid, Love"" (The first three emojis represent Steve Carell's character from the movie wearing hats, while the fourth represents Ryan Gosling's character driving a car)",0,2.4316070079803467
+mistral:7b,🤵🕶️🕶️🚗,men in black,json_constrained,0.7,Tuxedo Drive,0,0.8196578025817871
+mistral:7b,🤵🕶️🕶️🚗,men in black,few_shot,0.7,"Pepe Le Pew (The film character is a skunk depicted as a Frenchman, wearing a bow tie (🤵) and a striped hat (🕶️🕶️), and often seen in a car (🚗)). However, there isn't an actual movie named Pepe Le Pew. He is a character from the Looney Tunes series of animated short films.",0,4.925762176513672
+llama3.2:latest,🤵🕶️🕶️🚗,men in black,zero_shot,0.0,The Avengers,0,0.33437204360961914
+llama3.2:latest,🤵🕶️🕶️🚗,men in black,json_constrained,0.0,The Spy Who Wore Two Goggles and Drives,0,0.5893881320953369
+llama3.2:latest,🤵🕶️🕶️🚗,men in black,few_shot,0.0,The Avengers,0,0.3539159297943115
+llama3.2:latest,🤵🕶️🕶️🚗,men in black,zero_shot,0.3,The Usual Suspects,0,0.3838059902191162
+llama3.2:latest,🤵🕶️🕶️🚗,men in black,json_constrained,0.3,The Spy Who Wore Two Goggles and Drives,0,0.5966758728027344
+llama3.2:latest,🤵🕶️🕶️🚗,men in black,few_shot,0.3,Batman Begins,0,0.35146498680114746
+llama3.2:latest,🤵🕶️🕶️🚗,men in black,zero_shot,0.7,Mr. Spectre and the Flying Car.,0,0.4260251522064209
+llama3.2:latest,🤵🕶️🕶️🚗,men in black,json_constrained,0.7,The Spy Who Loved Shades of Justice,0,0.5004079341888428
+llama3.2:latest,🤵🕶️🕶️🚗,men in black,few_shot,0.7,The Avengers,0,0.35244178771972656
+mistral:7b,🧡🐠🔍,finding nemo,zero_shot,0.0,Finding Dory,0,0.6551671028137207
+mistral:7b,🧡🐠🔍,finding nemo,json_constrained,0.0,YellowFishInvestigation,0,1.1649000644683838
+mistral:7b,🧡🐠🔍,finding nemo,few_shot,0.0,Finding Nemo,1,0.9967079162597656
+mistral:7b,🧡🐠🔍,finding nemo,zero_shot,0.3,Finding Dory,0,0.5949978828430176
+mistral:7b,🧡🐠🔍,finding nemo,json_constrained,0.3,YellowFishInvestigation,0,1.1721980571746826
+mistral:7b,🧡🐠🔍,finding nemo,few_shot,0.3,Finding Nemo,1,1.0028860569000244
+mistral:7b,🧡🐠🔍,finding nemo,zero_shot,0.7,Finding Dory,0,0.588331937789917
+mistral:7b,🧡🐠🔍,finding nemo,json_constrained,0.7,YellowFishDetective,0,1.174710988998413
+mistral:7b,🧡🐠🔍,finding nemo,few_shot,0.7,Finding Nemo,1,1.0022039413452148
+llama3.2:latest,🧡🐠🔍,finding nemo,zero_shot,0.0,Finding Nemo,1,0.2540440559387207
+llama3.2:latest,🧡🐠🔍,finding nemo,json_constrained,0.0,The Red Fish Detective,0,0.42705798149108887
+llama3.2:latest,🧡🐠🔍,finding nemo,few_shot,0.0,Finding Nemo,1,0.37714099884033203
+llama3.2:latest,🧡🐠🔍,finding nemo,zero_shot,0.3,Finding Nemo,1,0.23321294784545898
+llama3.2:latest,🧡🐠🔍,finding nemo,json_constrained,0.3,Finding Nemo,1,0.4062011241912842
+llama3.2:latest,🧡🐠🔍,finding nemo,few_shot,0.3,Finding Nemo,1,0.45480775833129883
+llama3.2:latest,🧡🐠🔍,finding nemo,zero_shot,0.7,Finding Nemo.,1,0.24055910110473633
+llama3.2:latest,🧡🐠🔍,finding nemo,json_constrained,0.7,"Love, Actually",0,0.403886079788208
+llama3.2:latest,🧡🐠🔍,finding nemo,few_shot,0.7,Finding Nemo,1,0.37221503257751465
+mistral:7b,🦁👑🌅,the lion king,zero_shot,0.0,Lion King (2019),0,0.8097498416900635
+mistral:7b,🦁👑🌅,the lion king,json_constrained,0.0,Lion King,1,0.9868941307067871
+mistral:7b,🦁👑🌅,the lion king,few_shot,0.0,The Lion King 2: Simba's Pride,0,1.3585278987884521
+mistral:7b,🦁👑🌅,the lion king,zero_shot,0.3,Lion King (1994),0,0.7643630504608154
+mistral:7b,🦁👑🌅,the lion king,json_constrained,0.3,Lion King,1,0.9940857887268066
+mistral:7b,🦁👑🌅,the lion king,few_shot,0.3,The Lion King 2: Simba's Pride,0,1.361320972442627
+mistral:7b,🦁👑🌅,the lion king,zero_shot,0.7,Lion King (2019),0,0.7884087562561035
+mistral:7b,🦁👑🌅,the lion king,json_constrained,0.7,Lion King,1,1.0331141948699951
+mistral:7b,🦁👑🌅,the lion king,few_shot,0.7,The Lion King 2: Simba's Pride,0,1.380216121673584
+llama3.2:latest,🦁👑🌅,the lion king,zero_shot,0.0,The Lion King.,1,0.346085786819458
+llama3.2:latest,🦁👑🌅,the lion king,json_constrained,0.0,The Lion King,1,0.4149181842803955
+llama3.2:latest,🦁👑🌅,the lion king,few_shot,0.0,The Lion King of the Desert (Lawrence of Arabia),0,0.5892040729522705
+llama3.2:latest,🦁👑🌅,the lion king,zero_shot,0.3,The Lion King.,1,0.24368500709533691
+llama3.2:latest,🦁👑🌅,the lion king,json_constrained,0.3,The Lion King,1,0.40863919258117676
+llama3.2:latest,🦁👑🌅,the lion king,few_shot,0.3,The Lion King of the Desert,0,0.4459259510040283
+llama3.2:latest,🦁👑🌅,the lion king,zero_shot,0.7,The Lion King.,1,0.24231314659118652
+llama3.2:latest,🦁👑🌅,the lion king,json_constrained,0.7,The Lion King,1,0.4278390407562256
+llama3.2:latest,🦁👑🌅,the lion king,few_shot,0.7,The Lion King of the Desert (Lawrence of Arabia),0,0.616919994354248
+mistral:7b,🧑‍🍳🐭🇫🇷,ratatouille,zero_shot,0.0,Ratatouille (2007),0,0.9276988506317139
+mistral:7b,🧑‍🍳🐭🇫🇷,ratatouille,json_constrained,0.0,Ratatouille: The French Woman,0,1.2961921691894531
+mistral:7b,🧑‍🍳🐭🇫🇷,ratatouille,few_shot,0.0,Ratatouille (France),0,1.3209879398345947
+mistral:7b,🧑‍🍳🐭🇫🇷,ratatouille,zero_shot,0.3,Ratatouille (2007),0,0.8803229331970215
+mistral:7b,🧑‍🍳🐭🇫🇷,ratatouille,json_constrained,0.3,Ratatouille: The French Woman,0,1.3035640716552734
+mistral:7b,🧑‍🍳🐭🇫🇷,ratatouille,few_shot,0.3,Ratatouille (France),0,1.298051118850708
+mistral:7b,🧑‍🍳🐭🇫🇷,ratatouille,zero_shot,0.7,Ratatouille (2007),0,0.8960020542144775
+mistral:7b,🧑‍🍳🐭🇫🇷,ratatouille,json_constrained,0.7,Ratatouille: The French Chef,0,1.3956298828125
+mistral:7b,🧑‍🍳🐭🇫🇷,ratatouille,few_shot,0.7,Ratatouille (France),0,1.3268649578094482
+llama3.2:latest,🧑‍🍳🐭🇫🇷,ratatouille,zero_shot,0.0,Ratatouille,1,0.3738698959350586
+llama3.2:latest,🧑‍🍳🐭🇫🇷,ratatouille,json_constrained,0.0,Ratatouille (France),0,0.5125401020050049
+llama3.2:latest,🧑‍🍳🐭🇫🇷,ratatouille,few_shot,0.0,Ratatouille,1,0.502511739730835
+llama3.2:latest,🧑‍🍳🐭🇫🇷,ratatouille,zero_shot,0.3,Ratatouille,1,0.32762694358825684
+llama3.2:latest,🧑‍🍳🐭🇫🇷,ratatouille,json_constrained,0.3,Ratatouille (France),0,0.5030758380889893
+llama3.2:latest,🧑‍🍳🐭🇫🇷,ratatouille,few_shot,0.3,Ratatouille,1,0.4926340579986572
+llama3.2:latest,🧑‍🍳🐭🇫🇷,ratatouille,zero_shot,0.7,Ratatouille,1,0.3288142681121826
+llama3.2:latest,🧑‍🍳🐭🇫🇷,ratatouille,json_constrained,0.7,Amélie Ît la Mante (¼t la France),0,0.8669979572296143
+llama3.2:latest,🧑‍🍳🐭🇫🇷,ratatouille,few_shot,0.7,Ratatouille,1,0.5046770572662354
+mistral:7b,👻🚫,ghostbusters,zero_shot,0.0,Ghostbusters (2016),0,0.7290780544281006
+mistral:7b,👻🚫,ghostbusters,json_constrained,0.0,Ghostbusters II,0,0.9691081047058105
+mistral:7b,👻🚫,ghostbusters,few_shot,0.0,Ghostbusters,1,1.1224339008331299
+mistral:7b,👻🚫,ghostbusters,zero_shot,0.3,Ghostbusters (2016),0,0.6698429584503174
+mistral:7b,👻🚫,ghostbusters,json_constrained,0.3,Ghostbusters II,0,5.523138999938965
+mistral:7b,👻🚫,ghostbusters,few_shot,0.3,Ghostbusters,1,1.1939408779144287
+mistral:7b,👻🚫,ghostbusters,zero_shot,0.7,Ghostbusters II,0,0.44181299209594727
+mistral:7b,👻🚫,ghostbusters,json_constrained,0.7,Ghostbusters II,0,0.696561336517334
+mistral:7b,👻🚫,ghostbusters,few_shot,0.7,"Ghostbusters (The symbol 👻 represents a ghost, and 🚫 is a prohibition sign, which could suggest a movie about preventing or fighting against ghosts.)",0,2.8868610858917236
+llama3.2:latest,👻🚫,ghostbusters,zero_shot,0.0,Ghostbusters,1,0.2966170310974121
+llama3.2:latest,👻🚫,ghostbusters,json_constrained,0.0,Ghostbusters,1,0.337277889251709
+llama3.2:latest,👻🚫,ghostbusters,few_shot,0.0,Poltergeist,0,0.4285008907318115
+llama3.2:latest,👻🚫,ghostbusters,zero_shot,0.3,Ghostbusters,1,0.2179880142211914
+llama3.2:latest,👻🚫,ghostbusters,json_constrained,0.3,Ghostbusters,1,0.34050917625427246
+llama3.2:latest,👻🚫,ghostbusters,few_shot,0.3,Ghostbusters,1,0.4443199634552002
+llama3.2:latest,👻🚫,ghostbusters,zero_shot,0.7,Ghostbusters,1,0.22064900398254395
+llama3.2:latest,👻🚫,ghostbusters,json_constrained,0.7,Ghostbusters,1,0.33727169036865234
+llama3.2:latest,👻🚫,ghostbusters,few_shot,0.7,Poltergeist,0,0.4268319606781006
+mistral:7b,🤖🚗,transformers,zero_shot,0.0,Terminator 2: Judgment Day,0,0.7668249607086182
+mistral:7b,🤖🚗,transformers,json_constrained,0.0,Robot Car,0,0.9097278118133545
+mistral:7b,🤖🚗,transformers,few_shot,0.0,Terminator,0,5.810526132583618
+mistral:7b,🤖🚗,transformers,zero_shot,0.3,Terminator 2: Judgment Day,0,0.7868599891662598
+mistral:7b,🤖🚗,transformers,json_constrained,0.3,Robo-Car,0,1.0035700798034668
+mistral:7b,🤖🚗,transformers,few_shot,0.3,Terminator,0,4.397048711776733
+mistral:7b,🤖🚗,transformers,zero_shot,0.7,"The movie title for the provided emoji sequence is ""Robocar Poli"". This is a Japanese animated series about a group of sentient, transforming cars, one of which is a robot car. While it's not a single film but an entire series, the emojis do represent a robotic entity and a car, which suggests the title ""Robocar Poli"" as a possible answer.",0,4.997918128967285
+mistral:7b,🤖🚗,transformers,json_constrained,0.7,Robot Car,0,1.0247790813446045
+mistral:7b,🤖🚗,transformers,few_shot,0.7,Terminator,0,5.508130073547363
+llama3.2:latest,🤖🚗,transformers,zero_shot,0.0,"I, Robot",0,0.46661925315856934
+llama3.2:latest,🤖🚗,transformers,json_constrained,0.0,"I, Robot",0,0.40404200553894043
+llama3.2:latest,🤖🚗,transformers,few_shot,0.0,"I, Robot",0,0.4643089771270752
+llama3.2:latest,🤖🚗,transformers,zero_shot,0.3,"I, Robot",0,0.2532808780670166
+llama3.2:latest,🤖🚗,transformers,json_constrained,0.3,Robo-Car,0,0.3959312438964844
+llama3.2:latest,🤖🚗,transformers,few_shot,0.3,"I, Robot",0,0.43124818801879883
+llama3.2:latest,🤖🚗,transformers,zero_shot,0.7,"I, Robot",0,0.24196577072143555
+llama3.2:latest,🤖🚗,transformers,json_constrained,0.7,Robot Car,0,0.33899593353271484
+llama3.2:latest,🤖🚗,transformers,few_shot,0.7,"I, Robot",0,0.43473172187805176
+mistral:7b,🦇🏙️,the dark knight,zero_shot,0.0,Batman Begins,0,0.540229082107544
+mistral:7b,🦇🏙️,the dark knight,json_constrained,0.0,Batman in Gotham City,0,1.503748893737793
+mistral:7b,🦇🏙️,the dark knight,few_shot,0.0,Batman Begins,0,1.38808012008667
+mistral:7b,🦇🏙️,the dark knight,zero_shot,0.3,Batman Begins,0,0.46987104415893555
+mistral:7b,🦇🏙️,the dark knight,json_constrained,0.3,Batman in Gotham City,0,1.374311923980713
+mistral:7b,🦇🏙️,the dark knight,few_shot,0.3,Batman Begins,0,1.2849669456481934
+mistral:7b,🦇🏙️,the dark knight,zero_shot,0.7,Batman Begins,0,0.4824037551879883
+mistral:7b,🦇🏙️,the dark knight,json_constrained,0.7,Batman in Gotham City,0,1.512040138244629
+mistral:7b,🦇🏙️,the dark knight,few_shot,0.7,Batman Begins (The city emoji represents Gotham),0,1.7847847938537598
+llama3.2:latest,🦇🏙️,the dark knight,zero_shot,0.0,Bats Out of Hell,0,0.35389018058776855
+llama3.2:latest,🦇🏙️,the dark knight,json_constrained,0.0,Blade of the City,0,0.4036979675292969
+llama3.2:latest,🦇🏙️,the dark knight,few_shot,0.0,"Dracula (or more specifically, Dracula Untold)",0,0.6753249168395996
+llama3.2:latest,🦇🏙️,the dark knight,zero_shot,0.3,Batman Begins,0,0.2206428050994873
+llama3.2:latest,🦇🏙️,the dark knight,json_constrained,0.3,Batman of Gotham City,0,0.40081000328063965
+llama3.2:latest,🦇🏙️,the dark knight,few_shot,0.3,Dracula (Bram Stoker's Dracula),0,0.6770288944244385
+llama3.2:latest,🦇🏙️,the dark knight,zero_shot,0.7,Dracula in London.,0,0.3099508285522461
+llama3.2:latest,🦇🏙️,the dark knight,json_constrained,0.7,Blade in the City,0,0.4391019344329834
+llama3.2:latest,🦇🏙️,the dark knight,few_shot,0.7,Batman Begins,0,0.4283111095428467
+mistral:7b,🚗⚡🏁,cars,zero_shot,0.0,Fast & Furious: Tokyo Drift,0,0.7776529788970947
+mistral:7b,🚗⚡🏁,cars,json_constrained,0.0,Race Car Lightning,0,1.3724970817565918
+mistral:7b,🚗⚡🏁,cars,few_shot,0.0,Fast and Furious: Hobbs & Shaw,0,1.6385791301727295
+mistral:7b,🚗⚡🏁,cars,zero_shot,0.3,Fast & Furious: Tokyo Drift,0,0.6440248489379883
+mistral:7b,🚗⚡🏁,cars,json_constrained,0.3,Racecar Zap Checkered Flag,0,1.4299888610839844
+mistral:7b,🚗⚡🏁,cars,few_shot,0.3,Fast and Furious: Tokyo Drift,0,1.6062700748443604
+mistral:7b,🚗⚡🏁,cars,zero_shot,0.7,Fast & Furious: Tokyo Drift,0,0.6625268459320068
+mistral:7b,🚗⚡🏁,cars,json_constrained,0.7,Race Car Zap,0,1.3221020698547363
+mistral:7b,🚗⚡🏁,cars,few_shot,0.7,Lightning McQueen's Racing Academy (based on the Cars franchise),0,1.911241054534912
+llama3.2:latest,🚗⚡🏁,cars,zero_shot,0.0,Turbo-Charged Prelude,0,0.3529379367828369
+llama3.2:latest,🚗⚡🏁,cars,json_constrained,0.0,Turbo-Charged Racing,0,0.5070540904998779
+llama3.2:latest,🚗⚡🏁,cars,few_shot,0.0,Fast and Furious,0,0.4620528221130371
+llama3.2:latest,🚗⚡🏁,cars,zero_shot,0.3,Turbo-Charged Prelude,0,0.3155841827392578
+llama3.2:latest,🚗⚡🏁,cars,json_constrained,0.3,Turbocharged Racing,0,0.5039570331573486
+llama3.2:latest,🚗⚡🏁,cars,few_shot,0.3,Fast and Furious,0,0.44806599617004395
+llama3.2:latest,🚗⚡🏁,cars,zero_shot,0.7,Turbo-Charged Prelude,0,0.2999439239501953
+llama3.2:latest,🚗⚡🏁,cars,json_constrained,0.7,Turbocharged Racing Car,0,0.5244920253753662
+llama3.2:latest,🚗⚡🏁,cars,few_shot,0.7,Racing Heart (Fast and Furious),0,0.5842189788818359

@@ -1,0 +1,17 @@
+[
+  { "emoji": "🧑🕷️🏙️", "answer": "spider-man", "aliases": ["spiderman"] },
+  { "emoji": "🚢💔🧊", "answer": "titanic", "aliases": [] },
+  { "emoji": "👸❄️", "answer": "frozen", "aliases": [] },
+  { "emoji": "🧙🧝💍🌋", "answer": "the lord of the rings", "aliases": ["lord of the rings", "lotr"] },
+  { "emoji": "🦖🏞️", "answer": "jurassic park", "aliases": [] },
+  { "emoji": "🧑‍🚀🌕", "answer": "apollo 13", "aliases": [] },
+  { "emoji": "🧔⚡🧹🏰", "answer": "harry potter", "aliases": ["harry potter and the sorcerers stone", "harry potter and the philosophers stone"] },
+  { "emoji": "🤵🕶️🕶️🚗", "answer": "men in black", "aliases": ["mib"] },
+  { "emoji": "🧡🐠🔍", "answer": "finding nemo", "aliases": [] },
+  { "emoji": "🦁👑🌅", "answer": "the lion king", "aliases": ["lion king"] },
+  { "emoji": "🧑‍🍳🐭🇫🇷", "answer": "ratatouille", "aliases": [] },
+  { "emoji": "👻🚫", "answer": "ghostbusters", "aliases": [] },
+  { "emoji": "🤖🚗", "answer": "transformers", "aliases": [] },
+  { "emoji": "🦇🏙️", "answer": "the dark knight", "aliases": ["dark knight"] },
+  { "emoji": "🚗⚡🏁", "answer": "cars", "aliases": [] }
+]
